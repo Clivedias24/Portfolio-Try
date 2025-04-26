@@ -1,4 +1,5 @@
 {
+  "homepage": "https://Clivedias24.github.io/Portfolio-Try",
   "name": "portfolio-react",
   "private": true,
   "version": "0.0.0",
@@ -10,6 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "react": "^19.0.0",
     "react-anchor-link-smooth-scroll": "^1.0.12",
     "react-dom": "^19.0.0"
